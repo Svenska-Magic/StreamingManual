@@ -1,17 +1,18 @@
 ---
 layout: default
 ---
+# SvenskaMagic Streaminglåda
 
-#### Front
-## Hörlursförstärkare
+## Front
+#### Hörlursförstärkare
 
-## Mic-panel
+#### Mic-panel
 
-## Mixer
+#### Mixer
 
-## Vidiu Pro
+#### Vidiu Pro
 
-## Blackmagic Design TV-Studio
+#### Blackmagic Design TV-Studio
 
 
-#### Baksida
+## Baksida
