@@ -2,6 +2,17 @@
 layout: default
 ---
 # SvenskaMagic Streaminglåda
+## Packlista & Instruktion
+### Lite (Ingen grafik)
+- Ingen extra utrustning behövs.
+Koppla i nätverkskabel från Vidiu i en switch, koppla in usb kabel mellan elgato portarna. Sen klickar du på rödaknappen när den är visar att den är redo så streamar du till SvMs kanal.
+
+### Medium (Med Grafik, Ingen vidiu)
+- En extra dator för streaming.
+Koppla in utgången från Elgaton till din PC, använd den som källa i valfritt streamingprogram.
+
+### Deluxe (Med grafik och vidiu)
+- Grafikdator
 
 ## Front
 #### Hörlursförstärkare
