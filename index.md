@@ -2,6 +2,11 @@
 layout: default
 ---
 # SvenskaMagic Streaminglåda
+## Kontakt
+För hjälp med utrustningen kontakta Oliver
+Telefon: +46 70 276 42 37
+Mail: oliver@fsvm.org
+
 ## Packlista
 #### Lite (Ingen grafik)
 - Ingen extra utrustning behövs.
